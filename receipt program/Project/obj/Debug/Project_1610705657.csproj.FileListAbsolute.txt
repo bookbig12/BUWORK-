@@ -1,0 +1,17 @@
+H:\It2631\New folder\Test\Project\Project\bin\Debug\Database1.mdf
+H:\It2631\New folder\Test\Project\Project\bin\Debug\Database1_log.ldf
+H:\It2631\New folder\Test\Project\Project\bin\Debug\Project.exe.config
+H:\It2631\New folder\Test\Project\Project\bin\Debug\Project.exe
+H:\It2631\New folder\Test\Project\Project\bin\Debug\Project.pdb
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project_1610705657.csprojAssemblyReference.cache
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Form1.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Form4.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Form5.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Form3.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Loading.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Form2.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Properties.Resources.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project_1610705657.csproj.GenerateResource.cache
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project_1610705657.csproj.CoreCompileInputs.cache
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.exe
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.pdb

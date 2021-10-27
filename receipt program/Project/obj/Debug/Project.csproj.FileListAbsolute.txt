@@ -1,0 +1,65 @@
+H:\It2631\New folder\Project\Project\bin\Debug\Project.exe.config
+H:\It2631\New folder\Project\Project\bin\Debug\Project.exe
+H:\It2631\New folder\Project\Project\bin\Debug\Project.pdb
+H:\It2631\New folder\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+H:\It2631\New folder\Project\Project\obj\Debug\Project.Form1.resources
+H:\It2631\New folder\Project\Project\obj\Debug\Project.Properties.Resources.resources
+H:\It2631\New folder\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+H:\It2631\New folder\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+H:\It2631\New folder\Project\Project\obj\Debug\Project.exe
+H:\It2631\New folder\Project\Project\obj\Debug\Project.pdb
+H:\It2631\New folder\Project\Project\obj\Debug\Project.Form2.resources
+H:\It2631\New folder\Project\Project\bin\Debug\Database1.mdf
+H:\It2631\New folder\Project\Project\bin\Debug\Database1_log.ldf
+H:\It2631\New folder\Project\Project\obj\Debug\Project.Form3.resources
+H:\It2631\New folder\Project\Project\obj\Debug\Project.Loading.resources
+H:\It2631\New folder\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\Admin\Downloads\Project\Project\bin\Debug\Database1.mdf
+C:\Users\Admin\Downloads\Project\Project\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Downloads\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Admin\Downloads\Project\Project\bin\Debug\Project.exe
+C:\Users\Admin\Downloads\Project\Project\bin\Debug\Project.pdb
+C:\Users\Admin\Downloads\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Admin\Downloads\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\Admin\Downloads\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\Admin\Downloads\Project\Project\obj\Debug\Project.Loading.resources
+C:\Users\Admin\Downloads\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\Admin\Downloads\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Admin\Downloads\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Project\Project\obj\Debug\Project.exe
+C:\Users\Admin\Downloads\Project\Project\obj\Debug\Project.pdb
+H:\It2631\New folder\Test\Project\Project\bin\Debug\Database1.mdf
+H:\It2631\New folder\Test\Project\Project\bin\Debug\Database1_log.ldf
+H:\It2631\New folder\Test\Project\Project\bin\Debug\Project.exe.config
+H:\It2631\New folder\Test\Project\Project\bin\Debug\Project.exe
+H:\It2631\New folder\Test\Project\Project\bin\Debug\Project.pdb
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Form1.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Form4.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Form3.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Loading.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Form2.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Properties.Resources.resources
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.exe
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.pdb
+H:\It2631\New folder\Test\Project\Project\obj\Debug\Project.Form5.resources
+C:\Users\Big\Downloads\Project\Project\bin\Debug\Database1.mdf
+C:\Users\Big\Downloads\Project\Project\bin\Debug\Database1_log.ldf
+C:\Users\Big\Downloads\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Big\Downloads\Project\Project\bin\Debug\Project.exe
+C:\Users\Big\Downloads\Project\Project\bin\Debug\Project.pdb
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.Form5.resources
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.Loading.resources
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.exe
+C:\Users\Big\Downloads\Project\Project\obj\Debug\Project.pdb
